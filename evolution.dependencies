@@ -22,5 +22,11 @@
     "repository": "LineageOS/android_hardware_sony_timekeep",
     "target_path": "hardware/sony/timekeep",
     "branch": "lineage-21"
+  },
+  {
+    "remote": "github",
+    "repository": "Evolution-X-Miatoll/android_packages_apps_ViPER4AndroidFX",
+    "target_path": "packages/apps/ViPER4AndroidFX",
+    "branch": "master"
   }
 ]
