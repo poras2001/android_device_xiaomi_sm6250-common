@@ -2,7 +2,7 @@
 audio.offload.min.duration.secs=30
 
 # Brightness Curve
-persist.sys.brightness.low.gamma=true
+persist.sys.brightness.low.gamma=false
 
 # Charger
 ro.charger.enable_suspend=true
