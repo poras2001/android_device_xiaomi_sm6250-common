@@ -24,7 +24,7 @@ LOCAL_OVERRIDES_PACKAGES := \
     PixelTroubleshooting \
     GooglePartnerSetup \
     PixelBuds \
-    DevicePolicy
+    DevicePolicy \
     Cross-Device Services
 
 LOCAL_UNINSTALLABLE_MODULE := true
