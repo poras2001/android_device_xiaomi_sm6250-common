@@ -25,15 +25,7 @@ LOCAL_OVERRIDES_PACKAGES := \
     GooglePartnerSetup \
     PixelBuds \
     DevicePolicy \
-    Cross-Device Services \
-    com.google.android.apps.wearables.maestro.companion \
-    package.com.google.ambient.streaming \
-    package.com.google.android.apps.work.clouddpc \
-    package.com.google.android.partnersetup \
-    package.com.google.android.apps.gcs \
-    package.com.google.pixel.livewallpaper \    
-    package.com.google.android.apps.pixel.support 
-    
+    Cross-Device Services  
 
 LOCAL_UNINSTALLABLE_MODULE := true
 LOCAL_CERTIFICATE := PRESIGNED
