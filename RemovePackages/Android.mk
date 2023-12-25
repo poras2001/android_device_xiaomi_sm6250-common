@@ -25,8 +25,21 @@ LOCAL_OVERRIDES_PACKAGES := \
     GooglePartnerSetup \
     PixelBuds \
     DevicePolicy \
-    Cross-Device Services  
-
+    Cross-Device Services \
+    PlayStore \
+    GooglePlayServices \   
+    PlayServices \
+    Gmail \
+    Files \
+    Calendar \    
+    Calculator \
+    Safety \
+    ViperFX \
+    Recorder \    
+    VoiceRecorder \
+    DigitalWellbeing \
+    Gms \
+    Maps 
 LOCAL_UNINSTALLABLE_MODULE := true
 LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_SRC_FILES := /dev/null
